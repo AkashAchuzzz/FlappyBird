@@ -7,11 +7,7 @@ How-to-do
 
 1. Install Python 2.7.X or 3.5.x from [here](https://www.python.org/download/releases/)
 
-2. Install PyGame
- 
- ::
-
-   pip install pygame
+2. Install PyGame `pip install pygame` type this in CMD and press enter.
  
 3. Clone this repository: `git clone https://github.com/AkashAchuzzz/FlappyBird.git` or click `Download ZIP` in right panel and extract it.
 
@@ -21,7 +17,6 @@ How-to-do
 
   (Note: Install pyGame for same version python as above)
 
-  (For x64 windows, get exe [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame))
 
 ScreenShot
 ----------
