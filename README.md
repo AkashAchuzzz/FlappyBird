@@ -13,6 +13,8 @@ How-to-do
 
 4. Run `python flappy.py` from the repo's directory
 
+  (Note: re-run the file again if the game doesn't open)
+
 5. use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
   (Note: Install pyGame for same version python as above)
@@ -24,3 +26,5 @@ ScreenShot
 ![Flappy Bird](screenshot1.png)
 
 [1]: http://www.pygame.org
+
+FOLLOW FOR MORE..!!!
